@@ -1,5 +1,5 @@
-i=1
+i=0
 
-while(i<6):
-    print(i)
+while(i<5):
+    print("Fahim")
     i+=1
